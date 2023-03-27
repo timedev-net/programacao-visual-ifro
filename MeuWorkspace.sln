@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PesoIdeal", "PesoIdeal\Peso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReajusteSalarial", "ReajusteSalarial\ReajusteSalarial.csproj", "{B73D4C17-0308-4DE8-89B0-A3E29DA92DE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoReajusteFolhaPagamento", "CalculoReajusteFolhaPagamento\CalculoReajusteFolhaPagamento.csproj", "{4768FA12-90E5-49E8-A1FA-F09AADF8F95F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B73D4C17-0308-4DE8-89B0-A3E29DA92DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B73D4C17-0308-4DE8-89B0-A3E29DA92DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B73D4C17-0308-4DE8-89B0-A3E29DA92DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4768FA12-90E5-49E8-A1FA-F09AADF8F95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4768FA12-90E5-49E8-A1FA-F09AADF8F95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4768FA12-90E5-49E8-A1FA-F09AADF8F95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4768FA12-90E5-49E8-A1FA-F09AADF8F95F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
