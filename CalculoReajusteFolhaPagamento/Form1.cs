@@ -113,9 +113,9 @@ namespace CalculoReajusteFolhaPagamento
                 // for (int i = 0; i < dados.Columns.Count; i++) {}
             }
 
-            label1.Text = valorTotalAnterior.ToString("F2");
-            label2.Text = valorTotalPosterior.ToString("F2");
-            label3.Text = percentAcrecimo.ToString("F2");
+            label1.Text = "O valor total antes do cálculo é: R$ " + valorTotalAnterior.ToString("F2");
+            label2.Text = "O valor total calculado é: R$ " + valorTotalPosterior.ToString("F2");
+            label3.Text = "O percentual de acréscimo total calculado é: " + percentAcrecimo.ToString("F2")+ "%";
 
             foreach (DataRow linha in dados.Rows)
             {

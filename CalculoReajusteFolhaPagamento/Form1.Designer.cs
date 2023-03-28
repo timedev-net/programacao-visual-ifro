@@ -59,7 +59,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(46, 68);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(274, 256);
+            this.dataGridView1.Size = new System.Drawing.Size(265, 256);
             this.dataGridView1.TabIndex = 3;
             // 
             // dataGridView2
@@ -67,7 +67,7 @@
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(369, 68);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(371, 256);
+            this.dataGridView2.Size = new System.Drawing.Size(253, 256);
             this.dataGridView2.TabIndex = 4;
             // 
             // button2
@@ -85,33 +85,30 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(43, 351);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(0, 13);
             this.label1.TabIndex = 6;
-            this.label1.Text = "label1";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(43, 380);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.Size = new System.Drawing.Size(0, 13);
             this.label2.TabIndex = 7;
-            this.label2.Text = "label2";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(43, 410);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 13);
+            this.label3.Size = new System.Drawing.Size(0, 13);
             this.label3.TabIndex = 8;
-            this.label3.Text = "label3";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(660, 450);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
